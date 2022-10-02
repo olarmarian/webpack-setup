@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: goldenrod;
+  text-align: center;
+  font-size: 18px;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
